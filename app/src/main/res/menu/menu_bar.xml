@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/top"
+
+        android:orderInCategory="1"
+        android:title="@string/top">
+
+    </item>
+    <item
+        android:id="@+id/store"
+
+        android:orderInCategory="2"
+        android:title="@string/store">
+
+    </item>
+    <item
+        android:id="@+id/contact"
+
+        android:orderInCategory="3"
+        android:title="@string/contact">
+
+    </item>
+</menu>
